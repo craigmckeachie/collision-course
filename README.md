@@ -1,4 +1,9 @@
-n
+
+
+
+
+
+nimajneb
 i
 m
 a
