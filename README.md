@@ -1,10 +1,3 @@
-
-
-nimajneb
-i
-m
-a
-j
-n
-e
-b
+Nick
+Michael
+neb
